@@ -5,3 +5,4 @@ Here are the random graphs: <br/>
 - Derivative visualizer: https://www.desmos.com/calculator/rghbr2ijot
 - Integral & Integral Approximation visualizer: https://www.desmos.com/calculator/ahtwiab6p2
 - Matrix multiplication in desmos example: https://www.desmos.com/calculator/imkhoclmtf
+- Approximation of sine using taylor series: https://www.desmos.com/calculator/m3esfny37p
