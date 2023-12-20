@@ -9,4 +9,4 @@ Here are the random graphs: <br/>
 - Basic number display using images (note: due to how desmos number accuracy works this fails when the number is large enough): https://www.desmos.com/calculator/78iqy5g4gm
 - Polar coordinate to Cartesian/Rectangular coordinate visualizer: https://www.desmos.com/calculator/vvrxmmyzxf
 - Cartesian/Rectangular coordinate to Polar coordinate visualizer: https://www.desmos.com/calculator/yic8jb4em6
-- Complex Number operations visualizers (note: division isn't very accurate due to the floating point representation used by desmos): https://www.desmos.com/calculator/re14gxtn0v
+- Complex Number operations visualizers: https://www.desmos.com/calculator/rafdgglzcr
