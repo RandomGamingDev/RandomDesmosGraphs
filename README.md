@@ -3,7 +3,7 @@ Here are the random graphs: <br/>
 - Base converter: https://www.desmos.com/calculator/sqpm2d2frd (It's nicer when you have to convert bases on say a chromebook and don't have access to normal tools which is why I put it here)
 - Sine and cosine visualizers: https://www.desmos.com/calculator/evbjxdjcyl
 - Derivative graph visualizer: https://www.desmos.com/calculator/une03gj4yg
-- How Derivatives work visualizer: https://www.desmos.com/calculator/wor1ywozh7
+- How Derivatives work visualizer: https://www.desmos.com/calculator/kadqd5eivx
 - Integral & Integral Approximation visualizer: https://www.desmos.com/calculator/ahtwiab6p2
 - Matrix multiplication in desmos example: https://www.desmos.com/calculator/imkhoclmtf
 - Approximation of sine using taylor series: https://www.desmos.com/calculator/m3esfny37p
