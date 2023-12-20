@@ -1,5 +1,5 @@
 Here are the random graphs: <br/>
-- Slope finder: https://www.desmos.com/calculator/4hbmktujmy
+- Slope finder: https://www.desmos.com/calculator/f8mb96hnrf
 - Base converter: https://www.desmos.com/calculator/sqpm2d2frd (It's nicer when you have to convert bases on say a chromebook and don't have access to normal tools which is why I put it here)
 - Sine and cosine visualizers: https://www.desmos.com/calculator/evbjxdjcyl
 - Derivative graph visualizer: https://www.desmos.com/calculator/une03gj4yg
