@@ -1,13 +1,14 @@
 Here are the random graphs: <br/>
-- Slope finder: https://www.desmos.com/calculator/f8mb96hnrf
-- Base converter: https://www.desmos.com/calculator/sqpm2d2frd (It's nicer when you have to convert bases on say a chromebook and don't have access to normal tools which is why I put it here)
-- Sine and cosine visualizers: https://www.desmos.com/calculator/evbjxdjcyl
-- Derivative graph visualizer: https://www.desmos.com/calculator/une03gj4yg
-- How Derivatives work visualizer: https://www.desmos.com/calculator/kadqd5eivx
-- Integral & Integral Approximation visualizer: https://www.desmos.com/calculator/ahtwiab6p2
-- Matrix multiplication in desmos example: https://www.desmos.com/calculator/imkhoclmtf
-- Approximation of sine using taylor series: https://www.desmos.com/calculator/m3esfny37p
-- Basic number display using images (note: due to how desmos number accuracy works this fails when the number is large enough): https://www.desmos.com/calculator/78iqy5g4gm
-- Polar coordinate to Cartesian/Rectangular coordinate visualizer: https://www.desmos.com/calculator/vvrxmmyzxf
-- Cartesian/Rectangular coordinate to Polar coordinate visualizer: https://www.desmos.com/calculator/yic8jb4em6
-- Complex Number operations visualizers: https://www.desmos.com/calculator/rafdgglzcr
+- Slope Finder: https://www.desmos.com/calculator/96kfyuvkji
+- Base Converter: https://www.desmos.com/calculator/chgtk7lyk1 (It's nicer when you have to convert bases on say a chromebook and don't have access to normal tools which is why I put it here)
+- Sine and Cosine Visualizer: https://www.desmos.com/calculator/acslvd3oko
+- Derivative Graph Visualizer: https://www.desmos.com/calculator/u0fioqno4i
+- How Derivatives work Visualizer: https://www.desmos.com/calculator/zugovy8xep
+- Integral & Integral Approximation Visualizer: https://www.desmos.com/calculator/kaqxfxabfn
+- Matrix multiplication in Desmos Example: https://www.desmos.com/calculator/nazbhjosww
+- Approximation of Sine Using Taylor Series: https://www.desmos.com/calculator/4fuoyb2prf
+- Basic Number Display using Images (note: due to how desmos number accuracy works this fails when the number is large enough): https://www.desmos.com/calculator/chb940j1df
+- Polar Coordinate to Cartesian/Rectangular Coordinate Visualizer: https://www.desmos.com/calculator/za7f3qyswl
+- Cartesian/Rectangular Coordinate to Polar Coordinate Visualizer: https://www.desmos.com/calculator/xb9henfani
+- Complex Number Operation Visualizer: https://www.desmos.com/calculator/13a0zuxuff
+- Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this one: https://youtu.be/tuR5NI-bvu8?si=gZnxavEQggP6GwW7): https://www.desmos.com/calculator/wilqosdkrn
