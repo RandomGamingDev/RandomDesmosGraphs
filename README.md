@@ -11,4 +11,4 @@ Here are the random graphs: <br/>
 - Polar Coordinate to Cartesian/Rectangular Coordinate Visualizer: https://www.desmos.com/calculator/za7f3qyswl
 - Cartesian/Rectangular Coordinate to Polar Coordinate Visualizer: https://www.desmos.com/calculator/xb9henfani
 - Complex Number Operation Visualizer: https://www.desmos.com/calculator/13a0zuxuff
-- Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this one: https://youtu.be/tuR5NI-bvu8?si=gZnxavEQggP6GwW7): https://www.desmos.com/calculator/wilqosdkrn
+- Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this desmos graph): https://www.desmos.com/calculator/wilqosdkrn
