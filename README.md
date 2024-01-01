@@ -13,3 +13,4 @@ Here are the random graphs: <br/>
 - Complex Number Operation Visualizer: https://www.desmos.com/calculator/13a0zuxuff
 - Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this desmos graph): https://www.desmos.com/calculator/wilqosdkrn
 - Naive Point Area based Pi Finding Algorithm: https://www.desmos.com/calculator/w00r3bp1k6
+- Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/2viaj6qmoa
