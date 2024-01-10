@@ -6,7 +6,8 @@ Here are the random graphs: <br/>
 - How Derivatives work Visualizer: https://www.desmos.com/calculator/zugovy8xep
 - Integral & Integral Approximation Visualizer: https://www.desmos.com/calculator/kaqxfxabfn
 - Matrix multiplication in Desmos Example: https://www.desmos.com/calculator/nazbhjosww
-- Approximation of Sine Using Taylor Series: https://www.desmos.com/calculator/4fuoyb2prf
+- Approximation of Sine using Taylor Series: https://www.desmos.com/calculator/4fuoyb2prf
+- Approximation of Sine and Cosine using Taylor Series and Visuals for How Close They Are: https://www.desmos.com/calculator/f7jovl2ty4
 - Basic Number Display using Images (note: due to how desmos number accuracy works this fails when the number is large enough): https://www.desmos.com/calculator/chb940j1df
 - Polar Coordinate to Cartesian/Rectangular Coordinate Visualizer: https://www.desmos.com/calculator/za7f3qyswl
 - Cartesian/Rectangular Coordinate to Polar Coordinate Visualizer: https://www.desmos.com/calculator/xb9henfani
