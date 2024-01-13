@@ -15,4 +15,4 @@ Here are the random graphs: <br/>
 - Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this desmos graph): https://www.desmos.com/calculator/wilqosdkrn
 - Naive Point Area based Pi Finding Algorithm: https://www.desmos.com/calculator/w00r3bp1k6
 - Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/2viaj6qmoa
-- Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://editor.p5js.org/PotatoBoy/sketches/oajx-j7zK
+- Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/6f7qstayfv
