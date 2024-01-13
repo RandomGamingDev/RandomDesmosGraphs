@@ -16,3 +16,4 @@ Here are the random graphs: <br/>
 - Naive Point Area based Pi Finding Algorithm: https://www.desmos.com/calculator/w00r3bp1k6
 - Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/2viaj6qmoa
 - Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/6f7qstayfv
+- A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/iwkvztftju
