@@ -18,3 +18,4 @@ Here are the random graphs: <br/>
 - Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/6f7qstayfv
 - A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/iwkvztftju
 - Projectile Motion Visualizer (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/2yt6es79q9
+- Normal Distribution Visualizer & Calculator: https://www.desmos.com/calculator/yq9to65cah
