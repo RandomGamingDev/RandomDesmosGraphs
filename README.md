@@ -16,7 +16,7 @@ Here are the random graphs: <br/>
 - Naive Point Area based Pi Finding Algorithm: https://www.desmos.com/calculator/w00r3bp1k6
 - Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/2viaj6qmoa
 - Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/6f7qstayfv
-- A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/iwkvztftju
+- A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/n3mmcxxbsb
 - Projectile Motion Visualizer (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/2yt6es79q9
 - Normal Distribution Visualizer & Calculator: https://www.desmos.com/calculator/yq9to65cah
-- Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/78m5ypugld
+- Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/bufhtb5xm9
