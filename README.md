@@ -19,4 +19,4 @@ Here are the random graphs: <br/>
 - A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/qessrjg1sz
 - Projectile Motion Visualizer (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/2yt6es79q9
 - Normal Distribution Visualizer & Calculator: https://www.desmos.com/calculator/yq9to65cah
-- Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/vz1yg0prda
+- Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/8ihadmyqqc
