@@ -20,3 +20,4 @@ Here are the random graphs: <br/>
 - Projectile Motion Visualizer (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/2yt6es79q9
 - Normal Distribution Visualizer & Calculator: https://www.desmos.com/calculator/yq9to65cah
 - Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/cu6bh8y26j
+- Rotate Point around Point (no rotation matrix): https://www.desmos.com/calculator/rjseyapkqj
