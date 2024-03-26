@@ -15,7 +15,7 @@ Here are the random graphs: <br/>
 - Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this desmos graph): https://www.desmos.com/calculator/wilqosdkrn
 - Naive Point Area based Pi Finding Algorithm: https://www.desmos.com/calculator/w00r3bp1k6
 - Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/lbimlnu6zf
-- Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/6f7qstayfv
+- Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/hvzg17z99l
 - A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/qessrjg1sz
 - Projectile Motion Visualizer (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/2yt6es79q9
 - Normal Distribution Visualizer & Calculator: https://www.desmos.com/calculator/yq9to65cah
