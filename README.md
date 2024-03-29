@@ -12,7 +12,7 @@ Here are the random graphs: <br/>
 - Polar Coordinate to Cartesian/Rectangular Coordinate Visualizer: https://www.desmos.com/calculator/za7f3qyswl
 - Cartesian/Rectangular Coordinate to Polar Coordinate Visualizer: https://www.desmos.com/calculator/xb9henfani
 - Complex Number Operation Visualizer: https://www.desmos.com/calculator/13a0zuxuff
-- Visualization of Pi being Irrational (Credit goes to Chirag Dudhat for the original animation that inspired this desmos graph): https://www.desmos.com/calculator/wilqosdkrn
+- Visualization of Pi being Irrational (An explanation can be found here https://www.reddit.com/r/desmos/comments/18ve212/i_recreated_the_visualization_of_pi_being/ and Credit goes to Chirag Dudhat for the original animation that inspired this desmos graph): https://www.desmos.com/calculator/wilqosdkrn
 - Naive Point Area based Pi Finding Algorithm: https://www.desmos.com/calculator/w00r3bp1k6
 - Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/lbimlnu6zf
 - Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/hvzg17z99l
