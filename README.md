@@ -22,4 +22,4 @@ Here are the random graphs: <br/>
 - Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/cu6bh8y26j
 - Rotate Point around Point (no rotation matrix): https://www.desmos.com/calculator/rjseyapkqj
 - Computation by Rounding: https://www.desmos.com/calculator/nxsbl5catp
-- Pascal's Triangle (An explanation can be found here https://www.reddit.com/r/desmos/comments/1bqx1vy/pascals_triangle_in_desmos_but_simpler/ for how it was rendered completely in Desmos and uses relatilvely simpler custom logic and nicer comments compared to other similar graphs): https://www.desmos.com/calculator/buzthdctdb
+- Pascal's Triangle (An explanation can be found here https://www.reddit.com/r/desmos/comments/1bqx1vy/pascals_triangle_in_desmos_but_simpler/ for how it was rendered completely in Desmos and uses relatilvely simpler custom logic and nicer comments compared to other similar graphs): https://www.desmos.com/calculator/obfkrasv3l
