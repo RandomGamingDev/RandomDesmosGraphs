@@ -27,3 +27,4 @@ Here are the random graphs: <br/>
 - Point Oval (an example of an oval made out of points as well as rotation purely of those points): https://www.desmos.com/calculator/dxlwqvfcia
 - Point in Box (using math to test whether or not a point's in a box (just boolean algebra, but in regular math like with using multiplication instead of AND)): https://www.desmos.com/calculator/ulqc1yj81h
 - Inscribed Regular Polygon (good for math as well as thinking about 3D modeled meshing for circles since it gives a top down perspective and tells you the % error): https://www.desmos.com/calculator/wlols65vyt
+- Normalization Visualizer & Calculator: https://www.desmos.com/calculator/fixyokphbm
