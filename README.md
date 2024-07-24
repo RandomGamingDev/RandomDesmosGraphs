@@ -28,4 +28,4 @@ Here are the random graphs: <br/>
 - Point in Box (using math to test whether or not a point's in a box (just boolean algebra, but in regular math like with using multiplication instead of AND)): https://www.desmos.com/calculator/ulqc1yj81h
 - Inscribed Regular Polygon (good for math as well as thinking about 3D modeled meshing for circles since it gives a top down perspective and tells you the % error): https://www.desmos.com/calculator/wlols65vyt
 - Normalization Visualizer & Calculator: https://www.desmos.com/calculator/fixyokphbm
-- Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/geoy51vrbo
+- Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/rw4vxb3cov
