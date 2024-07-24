@@ -29,4 +29,4 @@ Here are the random graphs: <br/>
 - Inscribed Regular Polygon (good for math as well as thinking about 3D modeled meshing for circles since it gives a top down perspective and tells you the % error): https://www.desmos.com/calculator/wlols65vyt
 - Normalization Visualizer & Calculator: https://www.desmos.com/calculator/fixyokphbm
 - Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/rw4vxb3cov
-- 2D (x & y) Projectile Motion Visualizer & Calculator: https://www.desmos.com/calculator/nc5jjgybd4
+- 2D (x & y) Projectile Motion Visualizer & Calculator: https://www.desmos.com/calculator/afmimins6a
