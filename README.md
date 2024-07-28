@@ -31,4 +31,4 @@ Here are the random graphs: <br/>
 - Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/c4qpcv77xm
 - 2D (x & y) Projectile Motion Visualizer & Calculator: https://www.desmos.com/calculator/hxmx3mh2eg
 - Mirror Reflection to Specified Point Visualizer & Calculator: https://www.desmos.com/calculator/w6i0xzoxjx
-- Ultrakill Realistic Marksman Coin Reflection Visualizer & Calculator: https://www.desmos.com/calculator/yu2zzvvzsj
+- Ultrakill Realistic Marksman Coin Reflection Visualizer & Calculator: https://www.desmos.com/calculator/k8k23zwxkw
