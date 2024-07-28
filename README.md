@@ -17,7 +17,7 @@ Here are the random graphs: <br/>
 - Boolean Algebra implemented with "Regular" Numbers (perfect for if you need standard logic for any Desmos projects): https://www.desmos.com/calculator/lbimlnu6zf
 - Neural Network XOR Approximator (trained in brain.js & implemented with math in desmos): https://www.desmos.com/calculator/hvzg17z99l
 - A Simplified Explanation and Demonstration of Gradient Descent in ML: https://www.desmos.com/calculator/qessrjg1sz
-- Y only Projectile Motion Visualizer & Calculator (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/2yt6es79q9
+- Y only Projectile Motion Visualizer & Calculator (y only, but technically expands over x at an x of 1 m/s): https://www.desmos.com/calculator/jvnhhqmazr
 - Normal Distribution Visualizer & Calculator: https://www.desmos.com/calculator/yq9to65cah
 - Ellipse Circle Collision (no rotation) visualizer: https://www.desmos.com/calculator/cu6bh8y26j
 - Rotate Point around Point (no rotation matrix): https://www.desmos.com/calculator/rjseyapkqj
@@ -29,6 +29,6 @@ Here are the random graphs: <br/>
 - Inscribed Regular Polygon (good for math as well as thinking about 3D modeled meshing for circles since it gives a top down perspective and tells you the % error): https://www.desmos.com/calculator/wlols65vyt
 - Normalization Visualizer & Calculator: https://www.desmos.com/calculator/fixyokphbm
 - Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/c4qpcv77xm
-- 2D (x & y) Projectile Motion Visualizer & Calculator: https://www.desmos.com/calculator/sxqlmsnuoi
+- 2D (x & y) Projectile Motion Visualizer & Calculator: https://www.desmos.com/calculator/hxmx3mh2eg
 - Mirror Reflection to Specified Point Visualizer & Calculator: https://www.desmos.com/calculator/w6i0xzoxjx
-- Ultrakill Realistic Marksman Coin Reflection Visualizer & Calculator: https://www.desmos.com/calculator/ovqkqmyhmt
+- Ultrakill Realistic Marksman Coin Reflection Visualizer & Calculator: https://www.desmos.com/calculator/yu2zzvvzsj
