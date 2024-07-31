@@ -28,7 +28,7 @@ Here are the random graphs: <br/>
 - Point in Box (using math to test whether or not a point's in a box (just boolean algebra, but in regular math like with using multiplication instead of AND)): https://www.desmos.com/calculator/ulqc1yj81h
 - Inscribed Regular Polygon (good for math as well as thinking about 3D modeled meshing for circles since it gives a top down perspective and tells you the % error): https://www.desmos.com/calculator/wlols65vyt
 - Normalization Visualizer & Calculator: https://www.desmos.com/calculator/fixyokphbm
-- Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/c4qpcv77xm
+- Mirror Reflection Visualizer & Calculator: https://www.desmos.com/calculator/rw4vxb3cov
 - 2D (x & y) Projectile Motion Visualizer & Calculator: https://www.desmos.com/calculator/hxmx3mh2eg
 - Mirror Reflection to Specified Point Visualizer & Calculator: https://www.desmos.com/calculator/w6i0xzoxjx
 - Ultrakill Realistic Marksman Coin Reflection Visualizer & Calculator: https://www.desmos.com/calculator/k8k23zwxkw
